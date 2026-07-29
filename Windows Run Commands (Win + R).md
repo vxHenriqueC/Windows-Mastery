@@ -1,10 +1,10 @@
-# ⌨️ Windows Run Commands (Win + R)
+#  Windows Run Commands (Win + R)
 
 The **Run dialog** (`Win + R`) provides quick access to Windows tools, settings, administrative consoles, and Control Panel applets without navigating through menus.
 
 ---
 
-# 📚 Run Command Reference
+#  Run Command Reference
 
 | Command | Description | Category | Admin |
 |---------|-------------|:--------:|:----:|
