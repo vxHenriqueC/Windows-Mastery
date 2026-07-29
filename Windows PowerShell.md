@@ -83,4 +83,4 @@ PowerShell is Microsoft's command-line shell and scripting language designed for
 | `ConvertTo-Json` | Converts objects into JSON format. | Utility | ❌ |
 | `ConvertFrom-Json` | Converts JSON into PowerShell objects. | Utility | ❌ |
 | `Out-File` | Sends output to a file. | Utility | ❌ |
-| `Write-Host` | Displays text on the console. | Utility | ❌ |
+| `Write-Host` | Displays text on the console. | Utility | ❌ | 
