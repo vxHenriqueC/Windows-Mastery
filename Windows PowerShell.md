@@ -1,10 +1,10 @@
-# ⚡ Windows PowerShell
+#  Windows PowerShell
 
 PowerShell is Microsoft's command-line shell and scripting language designed for system administration, automation, and configuration management. Unlike Command Prompt (CMD), PowerShell works with **objects** instead of plain text, making it significantly more powerful for managing Windows systems.
 
 ---
 
-# 📚 PowerShell Command Reference
+# PowerShell Command Reference
 
 | Command | Description | Category | Admin |
 |---------|-------------|:--------:|:----:|
