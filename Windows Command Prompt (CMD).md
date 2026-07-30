@@ -1,10 +1,10 @@
-# 💻 Windows Command Prompt (CMD)
+#  Windows Command Prompt (CMD)
 
 The Windows Command Prompt (CMD) is a command-line interpreter used to perform administrative tasks, troubleshoot issues, manage files, configure networks, and automate operations through commands.
 
 ---
 
-# 📚 CMD Command Reference
+#  CMD Command Reference
 
 | Command | Description | Category | Admin |
 |---------|-------------|----------|:----:|
